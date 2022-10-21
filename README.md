@@ -99,6 +99,6 @@ To check test coverage
 ```
 jest --coverage
 ```
-Test coverage is > %100
+Test coverage is => %100
 
 ![Screenshot 2022-09-21 at 21 43 21](https://github.com/RedPRO16/bank_tech_JS--With-2-Classes/blob/main/test/test%20result.png)
